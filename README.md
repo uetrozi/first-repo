@@ -35,7 +35,8 @@ We can add a code line 'console.log(almostDone)'
 
 ### Code Block
 
-'''js
+
+'''
 const cohort = "chervil"
 const student = {
 "firstName": "John",

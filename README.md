@@ -15,3 +15,6 @@ Today we are learning ....
 - Noodles
 - Cheese
 - Avocado
+
+## Link to a page
+[Spiced Academy](https://www.spiced-academy.com/de)

@@ -19,4 +19,7 @@ Today we are learning ....
 ## Link to a page
 [Spiced Academy](https://www.spiced-academy.com/de)
 
->blockquote
+>Learn to code
+
+## Image
+![cutedoggo](https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/115036762/original/3bc7660eabcd57d9dffefecf60e82262e962338b/give-you-10-photos-of-cute-doggos.jpg)

@@ -31,18 +31,15 @@ Today we are learning ....
 ## Code
 ### Code line
 
-We can add a code line 'console.log(almostDone)'
+'console.log(almostDone)'
 
 ### Code Block
 
-
-'''
-const cohort = "chervil"
-const student = {
-"firstName": "John",
+```
+{
+  "firstName": "John",
   "lastName": "Smith",
   "age": 25
 }
 ```
-
 

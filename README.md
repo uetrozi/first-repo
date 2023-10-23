@@ -1,6 +1,6 @@
 # Learning github and markdown
 
-Today we are learning ...
+Today we are learning ....
 
 ## Sub title
 
